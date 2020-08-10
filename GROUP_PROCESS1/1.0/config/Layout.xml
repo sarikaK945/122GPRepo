@@ -3,6 +3,7 @@
   <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
     <service-instance name="Feeder1" x="441" y="124"/>
     <service-instance name="Display1" x="562" y="151"/>
+    <textNote-Instance name="t" x="464" y="280" height="80" width="80"/>
   </subflow>
   <shortcut-routes/>
 </layout>
